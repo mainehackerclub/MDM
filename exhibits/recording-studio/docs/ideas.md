@@ -4,9 +4,26 @@ Ideas for the [Recording Studio](../../exhibits/recording-studio) exhibit
 Initial thoughts
 -------------------
 
-Rasberry Pi is awesome.
+Sratch the Rasberry Pi, I have a first gen AppleTV that needs a new purpose in life.
 
-Could we hook up the camera to an RP device, use the current joysticks connected to some servos and save the video stream to an mp4 video file that gets saved directly to a S3 bucket?
+Could we hook up the camera to an AppleTV with gentoo linux on it. 
+
+Use the current joysticks connected to the same servos as we already have.
+
+Maybe embed the wussy looking webcam into a more impressive looking 'shell'?
+
+On the Gentoo distro I have on my appletv, mplayer would do the trick nicely:
+
+  * http://en.gentoo-wiki.com/wiki/Webcam#Recording
+
+Combine them, encode them as mp4 and upload them using the python boto library to an S3 bucket.
+
+Display the unique ID for the video on the screen. 
+
+Maybe use a simple label printer to print out a "redemption ticket" that has the unique id of the video on it? 
+
+  * http://code.google.com/p/python-escpos/
+  * Epson POS Thermal Receipt Printer - Model TM-T88III - USB on Ebay for ~$130-150
 
 We could also enable different "modes" so you can manually control the camera, or flip a switch and do [face tracking](http://mitchtech.net/raspberry-pi-servo-face-tracker/), in case everyone wants to be in the box.
 
@@ -40,3 +57,5 @@ http://projectsmax246.blogspot.co.uk/2013/01/webcam-over-3g-with-raspberry-pi.ht
 http://mitchtech.net/raspberry-pi-servo-face-tracker/
 
 https://github.com/richardghirst/PiBits/tree/master/ServoBlaster
+
+HDMI splitter: http://www.monoprice.com/products/product.asp?c_id=101&cp_id=10113&cs_id=1011306&p_id=8153&seq=1&format=2
