@@ -3,6 +3,11 @@ Recording Studio
 
 **Current Status:** :sunny:
 
+Docs
+-----
+
+[Ideas](docs/ideas.md)
+
 Overview
 ----------
 
