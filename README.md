@@ -16,7 +16,7 @@ Tasks that must be accomplished:
 Exhibits
 ----------
 
-  1. :sunny: Dino Dig
+  1. :sunny: [Dino Dig](exhibits/dino-dig/)
   2. :partly_sunny: Hang Glider
   3. :sunny: Tractor Trailer
   4. :sunny: Recording Studio

@@ -1,7 +1,7 @@
 Recording Studio
 =================
 
-**Current Status:** :thumbsup:
+**Current Status:** :sunny:
 
 Overview
 ----------

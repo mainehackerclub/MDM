@@ -1,6 +1,8 @@
 Dino Dig
 ==========
 
+**Current Status:** :sunny:
+
 Overview
 ----------
 

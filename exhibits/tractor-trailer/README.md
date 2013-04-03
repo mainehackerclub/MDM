@@ -1,6 +1,8 @@
 Tractor Trailer Exhibit
 ========================
 
+**Current Status:** :sunny:
+
 Overview
 -----------
 
