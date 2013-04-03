@@ -11,3 +11,17 @@ Tasks that must be accomplished:
   2. Document proposed solutions/replacements for various exhibits
   3. Estimate time to complete solutions
   4. Prepare budget estimates or donations needed to complete tasks
+
+
+Exhibits
+----------
+
+  1. :sunny: Dino Dig
+  2. :partly_sunny: Hang Glider
+  3. :sunny: Tractor Trailer
+  4. :sunny: Recording Studio
+  5. :partly_sunny: Musical Styles
+  6. :cloud: Spirograph
+  7. :sunny: Cargo Ship Playarea
+  8. :cloud: Cargo Ship Simulator
+  9. :sunny: Heart-Blood Cycle
