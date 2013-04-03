@@ -1,7 +1,7 @@
 Hang Glider Simulator
 ==========================
 
-__Current Status:__ :cloud:
+__Current Status:__ :partly_sunny:
 
 Overview
 ---------
