@@ -17,9 +17,9 @@ Exhibits
 ----------
 
   1. :sunny: [Dino Dig](exhibits/dino-dig/)
-  2. :partly_sunny: Hang Glider
-  3. :sunny: Tractor Trailer
-  4. :sunny: Recording Studio
+  2. :partly_sunny: [Hang Glider](exhibits/hang-glider/)
+  3. :sunny: [Tractor Trailer](exhibits/tractor-trailer/)
+  4. :sunny: [Recording Studio](exhibits/recording-studio/)
   5. :partly_sunny: Musical Styles
   6. :cloud: Spirograph
   7. :sunny: Cargo Ship Playarea
