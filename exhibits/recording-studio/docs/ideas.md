@@ -29,6 +29,17 @@ We could also enable different "modes" so you can manually control the camera, o
 
 We'd need a way to split the video output over multiple screens. And we'd also need to make sure that whatever was cooked up for software required the least amount of user or staff input.
 
+We'd also need to do three things when the record button is pressed:
+
+  1. Start recording from the webcam
+  2. Start recording from the mic
+  3. Start playing the selected track
+
+Once the session is over, we'd have to:
+
+  1. Extract the audio from the mp4 file
+  2. Mux the music track with the audio and add it to the stripped m4v file
+
 Basic flow
 ------------
 
@@ -59,3 +70,5 @@ http://mitchtech.net/raspberry-pi-servo-face-tracker/
 https://github.com/richardghirst/PiBits/tree/master/ServoBlaster
 
 HDMI splitter: http://www.monoprice.com/products/product.asp?c_id=101&cp_id=10113&cs_id=1011306&p_id=8153&seq=1&format=2
+
+Muxing audo tracks with video files: http://ubuntuforums.org/showthread.php?t=1504282
