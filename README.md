@@ -12,6 +12,12 @@ Tasks that must be accomplished:
   3. Estimate time to complete solutions
   4. Prepare budget estimates or donations needed to complete tasks
 
+In discussions with other hackers, I've realized that in order for the
+museum to be able to consider accepting help from us, we need to be able
+to synthesize our ideas into actionable plans with clear goals, timelines
+and budgets.
+
+For more on this, see [our process document](process.md)
 
 Exhibits
 ----------
